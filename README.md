@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋 :fire:
 ![alt text](git-profile_1.png)
 ### Connect with me:
 <a href="https://www.behance.net/Znat">
@@ -6,7 +6,8 @@
  </a>
  <a href="https://vk.com/theznat7">
   <img align="left" alt="Vk" width="32px" src="vk.png" />
- </a>  
+ </a> 
+ <br/>
 ### Стек используемых технологий
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
