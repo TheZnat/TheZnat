@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**TheZnat/TheZnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨🏼‍💻 building [bradgarropy.com][website]  
+🧠 learning [nextjs][next], [typescript][typescript]  
+💜 loving [react][react], [firebase][firebase], [styled-components][styled], [jamstack][jamstack]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+
+
+[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[adobe]: https://adobe.com
+[react]: http://reactjs.org
+[firebase]: https://firebase.google.com
+[styled]: https://styled-components.com
+[jamstack]: https://jamstack.org
+[next]: https://nextjs.org
+[typescript]: https://www.typescriptlang.org
+[instagram]: https://instagram.com/bradgarropy
+[linkedin]: https://linkedin.com/in/bradgarropy
+[npm]: https://npmjs.com/~bradgarropy
