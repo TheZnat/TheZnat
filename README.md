@@ -1,5 +1,5 @@
 ### Hi 👋
-![alt text](git-prof2_1.jpg)
+![alt text](git-profile_1.png)
 ### Стек используемых технологий
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
