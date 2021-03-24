@@ -2,7 +2,10 @@
 ![alt text](git-profile_1.png)
 ### Connect with me:
 <a href="https://www.behance.net/Znat">
-  <img align="left" alt="behance" width="22px" src="behance.png" />
+  <img align="left" alt="behance" width="32px" src="behance.png" />
+ </a>
+ <a href="https://vk.com/theznat7">
+  <img align="left" alt="Vk" width="32px" src="vk.png" />
  </a>  
 ### Стек используемых технологий
 
