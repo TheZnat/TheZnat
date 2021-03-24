@@ -1,8 +1,9 @@
 ### Hi 👋
 ![alt text](git-profile_1.png)
 ### Connect with me:
-
-[<img align="left" | vk" width="30px" src="https://c" />][vk]
+<a href="https://www.behance.net/Znat">
+  <img align="left" alt="behance" width="22px" src="behance.png" />
+ </a>  
 ### Стек используемых технологий
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
