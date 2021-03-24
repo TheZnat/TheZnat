@@ -1,4 +1,4 @@
-### Hi 👋 :fire:
+### what's up :fire:
 ![alt text](git-profile_1.png)
 ### Connect with me:
 <a href="https://www.behance.net/Znat">
@@ -8,6 +8,8 @@
   <img align="left" alt="Vk" width="32px" src="vk.png" />
  </a> 
  <br/>
+ <br/>
+ 
 ### Стек используемых технологий
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
