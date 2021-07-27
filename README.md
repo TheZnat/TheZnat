@@ -9,7 +9,6 @@
  </a> 
  <br/>
  <br/>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6dbb3a9e-1d15-4c35-ba8d-da2d3d192005" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
  
 ### Стек используемых технологий
 
