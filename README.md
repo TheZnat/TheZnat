@@ -1,5 +1,5 @@
 ### what's up :fire:
-![alt text](git-profile_1.png)
+![alt text](https://github.com/TheZnat/TheZnat/blob/main/MKGIT.jpg)
 ### Connect with me:
 <a href="https://www.behance.net/Znat">
   <img align="left" alt="behance" width="32px" src="behance.png" />
