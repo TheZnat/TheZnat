@@ -16,6 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
 
 [![CCNA](https://github.com/TheZnat/TheZnat/blob/main/ccna-introduction-to-networks%20(1).png)](https://www.credly.com/badges/6dbb3a9e-1d15-4c35-ba8d-da2d3d192005/email)
 
