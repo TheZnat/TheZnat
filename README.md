@@ -1,5 +1,5 @@
 ### what's up :fire:
-[![Header](https://tenor.com/view/abstract-fluid-flowey-oil-like-gif-15877703)
+[![Header](https://github.com/TheZnat/TheZnat/blob/main/tenor.gif)
 ### Connect with me:
 <a href="https://www.behance.net/Znat">
   <img align="left" alt="behance" width="32px" src="behance.png" />
