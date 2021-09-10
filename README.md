@@ -1,5 +1,5 @@
 ### what's up :fire:
-![Header](https://github.com/TheZnat/TheZnat/blob/main/tenor.gif)
+![Header](https://github.com/TheZnat/TheZnat/blob/main/tumblr_static_tumblr_static_9f5p02i406ck8oggwswos0osw_focused_v3.gif)
 ### Connect with me:
 <a href="https://www.behance.net/Znat">
   <img align="left" alt="behance" width="32px" src="behance.png" />
