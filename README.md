@@ -12,7 +12,7 @@
   
   <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle">
+    <td valign="middle" background-color:'white'>
       <strong>Tech Stack:</strong>
     </td>  
     <td valign="middle">
