@@ -12,11 +12,24 @@
  
 <strong>My Streak</strong><br><br>
   
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-![node.js && Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=node.js)
+  <table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+      <strong>Tech Stack:</strong>
+    </td>  
+    <td valign="middle">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-js-50.png">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-php-50.png">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-html-50.png">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-css-50.png">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-sass-50.png">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-bootstrap-32.png">
+    <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/visualstudiocode.svg">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/ccna-introduction-to-networks%20(1).png">
+    </td>
+  </tr>  
+</table>
 
+  
 
-[![CCNA](https://github.com/TheZnat/TheZnat/blob/main/ccna-introduction-to-networks%20(1).png)](https://www.credly.com/badges/6dbb3a9e-1d15-4c35-ba8d-da2d3d192005/email)
 
