@@ -9,8 +9,6 @@
  </a> 
  <br/>
  <br/>
- 
-<strong>My Streak</strong><br><br>
   
   <table align="center" cellspacing="0" cellpadding="0">
   <tr>
