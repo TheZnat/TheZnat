@@ -1,6 +1,6 @@
 ### what's up :fire:
 <p align="center"><img src="https://github.com/TheZnat/TheZnat/blob/main/fr.gif"><p>
-### Connect with me:
+<strong>Contact me:</strong>
 <a href="https://www.behance.net/Znat">
   <img align="left" alt="behance" width="32px" src="behance.png" />
  </a>
@@ -10,8 +10,8 @@
  <br/>
  <br/>
  
-### Стек используемых технологий
-
+<summary>My Streak</summary>
+  
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
