@@ -1,6 +1,6 @@
 ### what's up :fire:
 <p align="center"><img src="https://github.com/TheZnat/TheZnat/blob/main/fr.gif"><p>
-<strong>Contact me:</strong>
+<strong>Contact me:</strong><br>
 <a href="https://www.behance.net/Znat">
   <img align="left" alt="behance" width="32px" src="behance.png" />
  </a>
