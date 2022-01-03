@@ -10,9 +10,9 @@
  <br/>
  <br/>
   
-  <table align="center" cellspacing="0" cellpadding="0">
+  <table align="center" cellspacing="0" cellpadding="0"  background-color:'white'>
   <tr>
-    <td valign="middle" background-color:'white'>
+    <td valign="middle">
       <strong>Tech Stack:</strong>
     </td>  
     <td valign="middle">
