@@ -24,7 +24,6 @@
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-css-50.png">
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-sass-50.png">
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-bootstrap-32.png">
-    <img width="32" src="https://github.com/Tvo-Po/Tvo-Po/blob/main/assets/icons/visualstudiocode.svg">
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/ccna-introduction-to-networks%20(1).png">
     </td>
   </tr>  
