@@ -23,6 +23,7 @@
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-sass-96.png">
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-bootstrap-96.png">
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/ccna-introduction-to-networks%20(1).png">
+    <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-react-native-64.png">
     </td>
   </tr>  
 </table>
