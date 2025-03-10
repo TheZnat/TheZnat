@@ -26,8 +26,10 @@
     <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-react-native-64.png">
     </td>
   </tr>  
-     <img align="left" src="https://www.codewars.com/users/TheZnat/badges/large"/>
 </table>
+   <br/>
+     <img align="center" src="https://www.codewars.com/users/TheZnat/badges/large"/>
+     <br/>
 
   
 
