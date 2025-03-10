@@ -32,7 +32,7 @@
 </table>
 
 <br/>
-<section style="text-align: center;">
+<p align="center">
   <img src="https://www.codewars.com/users/TheZnat/badges/large" />
-</section>
+</p>
 <br/>
