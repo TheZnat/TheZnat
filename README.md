@@ -13,23 +13,19 @@
 </a>
 <br/><br/>
 
-<table align="center" cellspacing="0" cellpadding="0" background-color="white">
-  <tr>
-    <td valign="middle">
-      <strong>Tech Stack:</strong>
-    </td>
-    <td valign="middle">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-javascript-64.png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-php-64.png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-html-64.png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-css-файл-64.png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-sass-96.png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-bootstrap-96.png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/ccna-introduction-to-networks%20(1).png">
-      <img width="32" src="https://github.com/TheZnat/TheZnat/blob/main/icons/icons8-react-native-64.png">
-    </td>
-  </tr>
-</table>
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" title="GraphQL"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code></td>
+		</tr>
+	</table>
+</div>
 
 <br/>
 <p align="center">
