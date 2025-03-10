@@ -32,5 +32,7 @@
 </table>
 
 <br/>
-<img align="center" src="https://www.codewars.com/users/TheZnat/badges/large" />
+<section style="text-align: center;">
+  <img src="https://www.codewars.com/users/TheZnat/badges/large" />
+</section>
 <br/>
